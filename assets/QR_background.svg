@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="311px" height="415px" viewBox="0 0 311 415" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>形状结合 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02QRcode" transform="translate(-32.000000, -120.000000)">
+            <g id="形状结合-2" transform="translate(32.000000, 120.000000)">
+                <path d="M311,120 L311,407 C311,411.418278 307.418278,415 303,415 L8,415 C3.581722,415 5.41083001e-16,411.418278 0,407 L0,120 C8.836556,120 16,112.836556 16,104 C16,95.163444 8.836556,88 0,88 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 L303,0 C307.418278,-8.11624501e-16 311,3.581722 311,8 L311,88 C302.163444,88 295,95.163444 295,104 C295,112.836556 302.163444,120 311,120 Z" id="形状结合" fill="#FFFFFF"></path>
+                <path d="M32,104 L279,104" id="直线" stroke-opacity="0.5" stroke="#D0D0D5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8,8"></path>
+            </g>
+        </g>
+    </g>
+</svg>
